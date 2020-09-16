@@ -1,10 +1,10 @@
 /* ==UserStyle==
 @name           Refined Github colorized
 @namespace      github.com/openstyles/stylus
-@version        1.0.1
+@version        1.0.2
 @description    Refined Github colorized
 @author         @jetersen
-@updateURL      https://raw.githubusercontent.com/jetersen/refined-github-colorized/master/style.user.css
+@updateURL      https://raw.githubusercontent.com/jetersen/refined-github-colorized/main/style.user.css
 ==/UserStyle== */
 
 @-moz-document regexp("^https?://((education|gist|graphql|guides|docs|raw|resources|status|developer|support|vscode-auth)\\.)?github\\.com/((?!generated_pages/preview).)*$"), domain("githubusercontent.com"), domain("www.githubstatus.com") {
