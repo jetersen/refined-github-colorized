@@ -8,4 +8,4 @@ Before GitHub dark theming and Refined GitHub Colorized:
 
 After:
 
-![show whitespace violet color](https://user-images.githubusercontent.com/1661688/93213189-d2485480-f763-11ea-9a90-b7d389482f95.png)
+![show whitespace violet color](https://user-images.githubusercontent.com/1661688/176894058-37236460-559b-4b8d-9829-0fecc7a8d711.png)
